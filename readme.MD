@@ -8,3 +8,4 @@ Outputs:
 
 public_ip: public IP of the instance created
 private_ip: private IP of the instance created
+# terraform-aws-ec2
